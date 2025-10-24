@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Reservation System",
+  "description": "A modern, responsive frontend for a hotel reservation system. Users can browse and search for hotels, view room details, and make bookings.",
+  "requestFramePermissions": []
+}
